@@ -53,6 +53,7 @@ int main(){
     cout<<"Enter value for each city:\n";
     
     cout<<"Checking if github repo is qorking or not... \n";
+    cout<<"Hua kya chages dekh raha? \n";
     vector<int> val;
     for(int i=0;i<n;i++){
         int a;
